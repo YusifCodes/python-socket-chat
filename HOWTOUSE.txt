@@ -1,0 +1,21 @@
+Welcome to my simple python chat app.
+*
+*
+*
+To use it, first of all you have to run the server.py file. 
+After that the server will turn on, and start listening for connections.
+*
+*
+*
+When the server is turned on, you can proceed to running the actual client (client.py).
+Every instance of cmd/terminal is considered a new client.
+It is recommended to only run two clients at the same time (The server will start ignoring client instances after there are two clients already).
+*
+*
+*
+If you want to exit just close the instance of the server.
+*
+*
+*
+Enjoy,
+Yusif Malikov.
